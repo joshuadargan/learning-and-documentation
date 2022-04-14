@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T21:07:15.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="nLj0uW07_Ev-iOOMUOBp" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T22:18:40.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="jr7lInw399492bIHWQDA" version="17.4.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="981" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,18 +275,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-94" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="778.6800000000001" width="320" height="80" as="geometry" />
+          <mxGeometry x="20" y="798.6800000000001" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-95" value="Id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Name&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Deleted" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="19" y="778.6800000000001" width="320" height="30" as="geometry" />
+          <mxGeometry x="19" y="798.6800000000001" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-96" value="12&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Location&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="20" y="798.6800000000001" width="320" height="30" as="geometry" />
+          <mxGeometry x="20" y="818.6800000000001" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-97" value="" style="endArrow=none;html=1;rounded=0;exitX=0.063;exitY=1.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pOFNMP6kBnX_Gh-DG6FI-96">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="848.6800000000001" as="sourcePoint" />
-            <mxPoint x="40.000000000000114" y="798.6800000000001" as="targetPoint" />
+            <mxPoint x="370" y="868.6800000000001" as="sourcePoint" />
+            <mxPoint x="40.000000000000114" y="818.6800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-99" value="2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;13&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;21&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -299,16 +299,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-101" value="13&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Department&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="20" y="828.6800000000001" width="320" height="30" as="geometry" />
+          <mxGeometry x="20" y="848.6800000000001" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-102" value="" style="endArrow=none;html=1;rounded=0;exitX=0.063;exitY=1.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pOFNMP6kBnX_Gh-DG6FI-101">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="878.6800000000001" as="sourcePoint" />
-            <mxPoint x="40.000000000000114" y="828.6800000000001" as="targetPoint" />
+            <mxPoint x="370" y="898.6800000000001" as="sourcePoint" />
+            <mxPoint x="40.000000000000114" y="848.6800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-103" value="MetadataNames" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="9" y="748.6800000000001" width="150" height="30" as="geometry" />
+          <mxGeometry y="775.0000000000001" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-110" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="436" y="510" width="320" height="350" as="geometry" />
@@ -440,15 +440,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-145" value="Location" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="870" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="880" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-146" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="pOFNMP6kBnX_Gh-DG6FI-145">
+        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-146" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="920" as="sourcePoint" />
-            <mxPoint x="120" y="900" as="targetPoint" />
+            <mxPoint x="110" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-147" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="pOFNMP6kBnX_Gh-DG6FI-145">
+        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-147" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pOFNMP6kBnX_Gh-DG6FI-149" target="pOFNMP6kBnX_Gh-DG6FI-145">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="920" as="sourcePoint" />
             <mxPoint x="130" y="910" as="targetPoint" />
@@ -458,7 +458,7 @@
           <mxGeometry x="50" y="920" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-149" value="St George" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="920" width="60" height="30" as="geometry" />
+          <mxGeometry x="140" y="920" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-150" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="pOFNMP6kBnX_Gh-DG6FI-148">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -494,10 +494,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-157" value="Sales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="970" width="60" height="30" as="geometry" />
+          <mxGeometry x="170" y="970" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-158" value="Then, when we move offices to Pleasant Grove, we would remove the Provo location upon upload of the updated user file. &lt;br&gt;&lt;br&gt;When we archive Provo, it would mark all of the budgets under Provo as deleted and create budgets for Pleasant Grove and all of its children. We would also mark the Provo Value as deleted in the MetadataValues table." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="890" width="280" height="90" as="geometry" />
+        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-158" value="When we move offices to Pleasant Grove, we would remove the Provo location upon upload of the updated user file. &lt;br&gt;&lt;br&gt;When we archive Provo, it would mark all of the budgets under Provo as deleted and create budgets for Pleasant Grove and all of its children. We would also mark the Provo Value as deleted in the MetadataValues table." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="960" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-159" value="Note: Id 3 only is for creating single level families. This example is just showing that the architecture is flexible for multi-level families." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="880" width="260" height="30" as="geometry" />
@@ -508,14 +508,41 @@
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-161" value="Note: A parent budget has the MetadataNameId set. Also, a parent budget&amp;nbsp; does not contain an actual balance." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="990" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-162" value="How will we handle null or undefined?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="718.68" width="300" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-164" value="Note: Budgets with ParentAccountId, MetadataNameId and MetadataValueId set are both a child and a parent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="1040" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pOFNMP6kBnX_Gh-DG6FI-165" value="Note: the metadata names and values are stored in the metadata of each account, so that we don&#39;t have to look up parents when assessing access.&lt;br&gt;Example: Account 7&#39;s metadata would look like:&lt;br&gt;{ &quot;Location&quot; : &quot;St George&quot;, &quot;Department&quot; : &quot;Sales&quot; }" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1030" width="281" height="30" as="geometry" />
+          <mxGeometry x="10" y="1030" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-166" value="26&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;12&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&quot;&quot;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="436" y="679.3399999999999" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-167" value="" style="endArrow=none;html=1;rounded=0;exitX=0.063;exitY=1.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pOFNMP6kBnX_Gh-DG6FI-166">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="786" y="729.3399999999999" as="sourcePoint" />
+            <mxPoint x="456" y="679.3399999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-168" value="Empty strings will be our equivalent of null or undefined for a metadata value, since that column is NOT NULL. &lt;br&gt;For example, some people are working exclusively from home and their location is not set in the user import file, we would create an empty string value for their undefined Location. We would make it the &quot;Undefined&quot; budget so that those individuals are still covered under a budget in the family." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="710" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-169" value="8&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 26&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="740" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-170" value="" style="endArrow=none;html=1;rounded=0;exitX=0.063;exitY=1.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pOFNMP6kBnX_Gh-DG6FI-169">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="790" as="sourcePoint" />
+            <mxPoint x="40.000000000000114" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-171" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pOFNMP6kBnX_Gh-DG6FI-172" target="pOFNMP6kBnX_Gh-DG6FI-145">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="910" as="sourcePoint" />
+            <mxPoint x="250" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOFNMP6kBnX_Gh-DG6FI-172" value="Undefined &quot;&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="920" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
